@@ -1,8 +1,0 @@
-{
-  "simple-int-value": 100,
-  "complex-value" : {
-    "AStringProp": "I'm a string",
-    "AIntProp": 100,
-    "ABoolProp": true
-  }
-}
