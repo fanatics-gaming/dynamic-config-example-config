@@ -1,6 +1,6 @@
 ---
 simple-config-value: 100
 complex-config-value:
-  stringProp: I am a string
+  stringProp: "I am a string"
   intProp: 2000
-  booleanProp: true
+  booleanProp: True
