@@ -1,6 +1,0 @@
-simple-int-value: 100
-
-complext-value:
-  AStringProp: "I'm a string"
-  AIntProp: 100
-  ABoolProp: true
